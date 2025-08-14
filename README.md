@@ -2,7 +2,7 @@
 
 I'm Oli - a data-driven project manager and aspiring AI/Data Product Manager who enjoys turning real-world challenges into practical, user-friendly tools. Using Python and data science to bridge technical development with strategic problem-solving.
 
-🔭 I recently bult [Literature Scount](https://github.com/olioschanz/literature-scout.git), an app that lets you set a custom time range, and instantly finds and organizes scientific papers on targeted products.
+🔭 I recently bult [Literature Scout](https://github.com/olioschanz/literature-scout.git), an app that lets you set a custom time range, and instantly finds and organizes scientific papers on targeted products.
 
 ⛁ Most projects start with small problems I’ve run into and grow into tools others can use — from automating repetitive tasks to improving data accuracy and making sense of messy information.
 
